@@ -1,0 +1,26 @@
+input.my-date{
+	text-align: center;
+    border-radius: 8px;
+}
+.datetimepicker {
+	border-radius: 8px !important;
+    top: 151px!important;
+}
+.custom-date{
+	border: 1px solid #dee2e6;
+	border-radius: 8px;
+}
+.Motor-status span{
+	padding: 5px 15px;
+	margin: 5px;
+	border-radius: 8px;
+}
+.my-custom-input span{
+	border-radius: 5px 0 0 5px!important;
+}
+.my-custom-input input{
+	border-radius: 0px 5px 5px 0px!important;
+}
+.my-custom-input{
+	max-width: 70%;
+}
